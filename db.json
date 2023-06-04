@@ -2,8 +2,8 @@
     "afData": {
         "code": "200",
         "afbody": {
-           "isHiEQ": "https://galigame.cc/600568",
-            "online": true
+           "ishieq": "https://galigame.cc/600568",
+            "online": "true"
         }
     }
 }
