@@ -1,9 +1,12 @@
 {
-    "SomeData": {
-        "code": "200",
-        "afbody": {
-            "isHIEQ": "",
-            "online": true
-        }
-    }
+    "Guiyue": {
+        "code": "200",
+        "message": true,
+        "errorcode": 0,
+        "data": {
+            "isGo": "https://www.winvn7.com/m/index.html?affiliateCode=zalo09",
+            "tourist": "true",
+            "islogin": "no"
+        }
+    }
 }
